@@ -10,6 +10,7 @@ const navigationItems = [
   { name: "Pricing", href: "/pricing" },
   { name: "FAQ", href: "/faq" },
   { name: "Contact", href: "/contact" },
+  { name: "Start Mission", href: "/mission" },
 ];
 
 export function Navigation() {
